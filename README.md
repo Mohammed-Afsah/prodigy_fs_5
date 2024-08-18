@@ -1,9 +1,4 @@
-## Preview
-<img alt="preview1" src="public/preview1.png" /> 
-<img alt="preview2" src="public/preview2.png" /> 
 
-## About the project
-The project is a social media platform. It implements complex operations and relationships between models.
 
 ## How it works
 Like any basic social media app, the users can create profile and connect to the app. Then, they have access to all the recent users' posts. They can like posts, comment them and even like the comments. There is an integration of emojis and stories for the users.
@@ -22,10 +17,3 @@ JWT_SECRET=
 
 Thirdly, you run **npm run dev**
 
-## Anyone can access this app
-I've hosted it on vercel. 
-Here is the link: 
-So go, give it a try and leave a feedback!
-
-## Hope you enjoy
-Have fun, leave a star if you like please and any contribution or improvement is welcome.
